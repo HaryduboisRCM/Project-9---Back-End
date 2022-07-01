@@ -11,7 +11,7 @@ const { Event } = require('../models/event');
 const { User } = require('../models/user');
 const { v4: uuidv4} = require('uuid');
 
-mongoose.connect("mongodb+srv://RBennett:pw5489@cluster0.qkqez51.mongodb.net/myFirstDatabase?retryWrites=true&w=majority") 
+mongoose.connect("mongodb+srv://tomandkyaw:ilovecoding@cluster0.hdgaw0u.mongodb.net/events?retryWrites=true&w=majority") 
 
 
 // defining the Express app
